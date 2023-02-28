@@ -1,4 +1,4 @@
-Challenge2
+Challenge#2
 =========
 
 Get the Metadata of the Instance in the Azure

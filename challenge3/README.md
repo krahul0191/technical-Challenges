@@ -1,4 +1,4 @@
-Challenge3
+Challenge#3
 =========
 
 Get the value of the key from the nested object.

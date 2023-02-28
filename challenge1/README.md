@@ -1,4 +1,4 @@
-Challenge1
+Challenge#1
 =========
 
 Create a 3-tier application resources in the azuzre cloud.

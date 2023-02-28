@@ -1,4 +1,4 @@
-Project Technical-Challenge
+Project Technical-Challenges
 =========
 
 This project contains the solution for the challenges in the mentioned folders

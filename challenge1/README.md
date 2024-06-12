@@ -1,7 +1,7 @@
 Challenge#1
 =========
 
-Create a 3-tier application resources in the azure cloud.
+Create a 3-tier application resources in the azure cloud with tf
 
 Getting started
 ---------------

@@ -1,7 +1,7 @@
 Project Technical-Challenges
 =========
 
-This project contains the solution for the challenges in the mentioned folder
+This project contains the solution for the challenges in the mentioned folder and files
 
 Getting started
 ---------------
